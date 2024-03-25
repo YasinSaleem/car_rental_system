@@ -1,2 +1,2 @@
-### car_rental_system
+### Car Rental System
 The Car Rental System provides a user-friendly interface for renting and returning cars. Users can choose from a selection of available cars and manage their rentals seamlessly. The system tracks car availability and rental status, ensuring efficient management of the rental process. With features like rental, return, and availability checks, the system aims to simplify car rental operations for both customers and administrators.
